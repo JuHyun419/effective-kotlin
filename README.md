@@ -10,6 +10,16 @@
 
 ---
 
+### **👥참여 인원**
+- [이주현](https://github.com/JuHyun419)
+- [이규봉](https://github.com/bong01)
+- [은지](https://github.com/bae-st)
+- [배준형](https://github.com/Iwillbeagood)
+- 고광표
+- 전태경
+
+---
+
 ### **📚 책 페이지(379p)**
 
 #### 1부: 좋은 코드
