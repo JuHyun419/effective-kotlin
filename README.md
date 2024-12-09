@@ -15,8 +15,8 @@
 - [이규봉](https://github.com/bong01)
 - [은지](https://github.com/bae-st)
 - [배준형](https://github.com/Iwillbeagood)
+- [전태경](https://github.com/ctk03272)
 - 고광표
-- 전태경
 
 ---
 
