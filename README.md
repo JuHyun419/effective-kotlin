@@ -31,9 +31,9 @@
 아이템 2: 변수의 스코프를 최소화하라 | [고광표](https://www.notion.so/2-1595b72def4d805c8afff84c445c9891?pvs=4)
 아이템 3: 최대한 플랫폼 타입을 사용하지 말라 | [배은지](https://create-something-from-nothing.tistory.com/521)
 아이템 4: inferred 타입으로 리턴하지 말라 | [전태경](https://devchun01.notion.site/4-inferredType-15884e90f126803ca9a6fd0f0a0f7dc5)
-아이템 5: 예외를 활용해 코드에 제한을 걸어라
-아이템 6: 사용자 정의 오류보다는 표준 오류를 사용하라
-아이템 7: 결과 부족이 발생할 경우 null과 Failure를 사용하라
+아이템 5: 예외를 활용해 코드에 제한을 걸어라 | [이주현](https://zzang9haha.notion.site/5-15dc0385d36e80bc9258d08e81c2d682?pvs=4)
+아이템 6: 사용자 정의 오류보다는 표준 오류를 사용하라 | [이규봉](https://bong01.notion.site/6-719418deb3cc4754ab9fdbda87a322b2?pvs=4)
+아이템 7: 결과 부족이 발생할 경우 null과 Failure를 사용하라 | [배은지](https://create-something-from-nothing.tistory.com/525)
 아이템 8: 적절하게 null을 처리하라
 아이템 9: use를 사용하여 리소스를 닫아라
 아이템 10: 단위 테스트를 만들어라
