@@ -34,16 +34,16 @@
 아이템 5: 예외를 활용해 코드에 제한을 걸어라 | [이주현](https://zzang9haha.notion.site/5-15dc0385d36e80bc9258d08e81c2d682?pvs=4)
 아이템 6: 사용자 정의 오류보다는 표준 오류를 사용하라 | [이규봉](https://bong01.notion.site/6-719418deb3cc4754ab9fdbda87a322b2?pvs=4)
 아이템 7: 결과 부족이 발생할 경우 null과 Failure를 사용하라 | [배은지](https://create-something-from-nothing.tistory.com/525)
-아이템 8: 적절하게 null을 처리하라
-아이템 9: use를 사용하여 리소스를 닫아라
-아이템 10: 단위 테스트를 만들어라
+아이템 8: 적절하게 null을 처리하라 | 고광표
+아이템 9: use를 사용하여 리소스를 닫아라 | [이주현](https://zzang9haha.notion.site/9-use-164c0385d36e802ea607d1e8ebf48375?pvs=4)
+아이템 10: 단위 테스트를 만들어라 | [배준형](https://everyday-develop-myself.tistory.com/371)
 
 
 #### 2장 가독성 (69p ~ 106p)
 | 아이템 | 발표자료
 | --- | --- |
-아이템 11: 가독성을 목표로 설계하라
-아이템 12: 연산자 오버로드를 할 때는 의미에 맞게 사용하라
+아이템 11: 가독성을 목표로 설계하라 | [전태경](https://devchun01.notion.site/11-16a84e90f12680d9a04bcea2d1c97830?pvs=4)
+아이템 12: 연산자 오버로드를 할 때는 의미에 맞게 사용하라 | [이규봉](https://bong01.notion.site/12-169cd120dfd280179cb3e5d38ef4f2c7?pvs=4)
 아이템 13: Unit?을 리턴하지 말라
 아이템 14: 변수 타입이 명확하게 보이지 않는 경우 확실하게 지정하라
 아이템 15: 리시버를 명시적으로 참조하라
