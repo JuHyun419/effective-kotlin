@@ -44,12 +44,12 @@
 | --- | --- |
 아이템 11: 가독성을 목표로 설계하라 | [전태경](https://devchun01.notion.site/11-16a84e90f12680d9a04bcea2d1c97830?pvs=4)
 아이템 12: 연산자 오버로드를 할 때는 의미에 맞게 사용하라 | [이규봉](https://bong01.notion.site/12-169cd120dfd280179cb3e5d38ef4f2c7?pvs=4)
-아이템 13: Unit?을 리턴하지 말라
-아이템 14: 변수 타입이 명확하게 보이지 않는 경우 확실하게 지정하라
-아이템 15: 리시버를 명시적으로 참조하라
-아이템 16: 프로퍼티는 동작이 아니라 상태를 나타내야 한다
-아이템 17: 이름 있는 아규먼트를 사용하라
-아이템 18: 코딩 컨벤션 지켜라
+아이템 13: Unit?을 리턴하지 말라 | [이주현](https://zzang9haha.notion.site/13-Unit-171c0385d36e80a2bdaeda894bd9983b?pvs=4)
+아이템 14: 변수 타입이 명확하게 보이지 않는 경우 확실하게 지정하라 | [이규봉](https://bong01.notion.site/14-175cd120dfd2809982eceab50f197a0a?pvs=4)
+아이템 15: 리시버를 명시적으로 참조하라 | [전태경](https://devchun01.notion.site/13-17584e90f12680d883a6fd460b0fe852?pvs=4)
+아이템 16: 프로퍼티는 동작이 아니라 상태를 나타내야 한다 | [고광표](https://olivine-legal-fa6.notion.site/16-1755b72def4d80a18017ebdf7772ea8f?pvs=4)
+아이템 17: 이름 있는 아규먼트를 사용하라 | [배은지](https://create-something-from-nothing.tistory.com/537)
+아이템 18: 코딩 컨벤션 지켜라 | [배준형](https://everyday-develop-myself.tistory.com/373)
 
 <br/>
  
