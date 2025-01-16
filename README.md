@@ -57,12 +57,12 @@
 #### 3장 재사용성 (109p ~ 152p)
 | 아이템 | 발표자료 |
 | --- | --- |
-아이템 19: knowledge를 반복하지 말라
-아이템 20: 일반적인 알고리즘을 반복해서 구현하지 말라
-아이템 21: 일반적인 프로퍼티 패턴은 프로퍼티 위임으로 만들어라
-아이템 22: 일반적인 알고리즘을 구현할 때 제네릭을 사용하라
-아이템 23: 타입 파라미터의 섀도잉을 피하라
-아이템 24: 제네렉 타입과 variance 한정자를 활용하라
+아이템 19: knowledge를 반복하지 말라 | [배은지](https://create-something-from-nothing.tistory.com/540)
+아이템 20: 일반적인 알고리즘을 반복해서 구현하지 말라 | [고광표](https://olivine-legal-fa6.notion.site/20-17c5b72def4d808ebf7ee64b1aa19a8b)
+아이템 21: 일반적인 프로퍼티 패턴은 프로퍼티 위임으로 만들어라 | [배준형](https://everyday-develop-myself.tistory.com/375)
+아이템 22: 일반적인 알고리즘을 구현할 때 제네릭을 사용하라 | [이주현](https://zzang9haha.notion.site/22-179c0385d36e80fdb258f43a528f500a)
+아이템 23: 타입 파라미터의 섀도잉을 피하라 | [이규봉](https://bong01.notion.site/23-17ccd120dfd2805493ffe1daa7dc39ce?pvs=4)
+아이템 24: 제네렉 타입과 variance 한정자를 활용하라 | [전태경](https://devchun01.notion.site/24-variance-17c84e90f126802bba00c169f56ad6e8?pvs=4)
 아이템 25: 공통 모듈을 추출해서 여러 플랫폼에서 재사용하라
 
 #### 4장 추상화 설계 (153p ~ 204p)
