@@ -62,16 +62,16 @@
 아이템 21: 일반적인 프로퍼티 패턴은 프로퍼티 위임으로 만들어라 | [배준형](https://everyday-develop-myself.tistory.com/375)
 아이템 22: 일반적인 알고리즘을 구현할 때 제네릭을 사용하라 | [이주현](https://zzang9haha.notion.site/22-179c0385d36e80fdb258f43a528f500a)
 아이템 23: 타입 파라미터의 섀도잉을 피하라 | [이규봉](https://bong01.notion.site/23-17ccd120dfd2805493ffe1daa7dc39ce?pvs=4)
-아이템 24: 제네렉 타입과 variance 한정자를 활용하라 | [전태경](https://devchun01.notion.site/24-variance-17c84e90f126802bba00c169f56ad6e8?pvs=4)
-아이템 25: 공통 모듈을 추출해서 여러 플랫폼에서 재사용하라
+아이템 24: 제네렉 타입과 variance 한정자를 활용하라 | [전태경](https://velog.io/@tony0327/%EC%A0%9C%EB%84%A4%EB%A6%AD-%ED%83%80%EC%9E%85%EA%B3%BC-Variance%EA%B3%B5%EB%B3%80%EC%84%B1%EA%B3%BC-%EB%B0%98%EA%B3%B5%EB%B3%80%EC%84%B1)
+아이템 25: 공통 모듈을 추출해서 여러 플랫폼에서 재사용하라 | [배준형](https://everyday-develop-myself.tistory.com/378)
 
 #### 4장 추상화 설계 (153p ~ 204p)
 | 아이템 | 발표자료 |
 | --- | --- |
-아이템 26: 함수 내부의 추상화 레벨을 통일하라
+아이템 26: 함수 내부의 추상화 레벨을 통일하라 | [이주현](https://zzang9haha.notion.site/26-180c0385d36e8011b88dd24b59f6c175?pvs=4)
 아이템 27: 변화로부터 코드를 보호하려면 추상화를 사용하라
 아이템 28: API 안정성을 확인하라
-아이템 29: 외부 API를 랩(wrap)해서 사용하라
+아이템 29: 외부 API를 랩(wrap)해서 사용하라 | [배은지](https://create-something-from-nothing.tistory.com/552)
 아이템 30: 요소의 가시성을 최소화하라
 아이템 31: 문서로 규약을 정의하라
 아이템 32: 추상화 규약을 지켜라
