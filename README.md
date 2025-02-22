@@ -90,11 +90,11 @@
 아이템 37: 데이터 집합 표현에 data 한정자를 사용하라 | [배준형](https://everyday-develop-myself.tistory.com/383)
 아이템 38: 연산 또는 액션을 전달할 때 인터페이스 대신 함수 타입을 사용하라 | [이주현](https://zzang9haha.notion.site/38-195c0385d36e80f2b836efcfef9f88e6)
 아이템 39: 태그 클래스보다는 클래스 계층을 사용하라 | [이규봉](https://bong01.notion.site/39-198cd120dfd280a79e30f0bc7f9f9e54)
-아이템 40: equals의 규약을 지켜라
+아이템 40: equals의 규약을 지켜라 | [배은지](https://create-something-from-nothing.tistory.com/567)
 아이템 41: hashCode의 규약을 지켜라
-아이템 42: compareTo의 규약을 지켜라
-아이템 43: API의 필수적이지 않는 부분을 확장 함수로 추출하라
-아이템 44: 멤버 확장 함수의 사용을 피하라
+아이템 42: compareTo의 규약을 지켜라 | [이규봉](https://bong01.notion.site/42-compareTo-19fcd120dfd2807fa2b1c28009bd831b)
+아이템 43: API의 필수적이지 않는 부분을 확장 함수로 추출하라 | [배은지](https://create-something-from-nothing.tistory.com/571)
+아이템 44: 멤버 확장 함수의 사용을 피하라 | [전태경](https://devchun01.notion.site/19f84e90f12680649bd5f3da48657186)
 
 <br/>
 
@@ -102,10 +102,11 @@
 #### 7장 비용 줄이기 (303p ~ 346p)
 | 아이템 | 발표자료 |
 | --- | --- |
-아이템 45: 불필요한 객체 생성을 피하라
+아이템 45: 불필요한 객체 생성을 피하라 | [이주현](https://zzang9haha.notion.site/45-19cc0385d36e80ca913bd0df3431a309)
 아이템 46: 함수 타입 파라미터를 갖는 함수에 inline 한정자를 붙여라
 아이템 47: 인라인 클래스의 사용을 고려하라
 아이템 48: 더 이상 사용하지 않는 객체의 레퍼런스를 제거하라
+
 #### 8장 효율적인 컬렉션 처리 (347p ~ 372p)
 | 아이템 | 발표자료 |
 | --- | --- |
