@@ -112,8 +112,8 @@
 | --- | --- |
 아이템 49: 하나 이상의 처리 단계를 가진 경우에는 시퀀스를 사용하라 | [이주현](https://zzang9haha.notion.site/49-1a4c0385d36e803fbbb1ecb4a407c01a)
 아이템 50: 컬렉션 처리 단계 수를 제한하라 | [전태경](https://devchun01.notion.site/1a684e90f12680e38dfdfb5f40ac250a?pvs=4)
-아이템 51: 성능이 중요한 부분에는 기본 자료형 배열을 사용하라
-아이템 52: mutable 컬렉션 사용을 고려하라
+아이템 51: 성능이 중요한 부분에는 기본 자료형 배열을 사용하라 | [전태경](https://devchun01.notion.site/51-52-1ad84e90f126808ba721d09923813b44)
+아이템 52: mutable 컬렉션 사용을 고려하라 | [전태경](https://devchun01.notion.site/51-52-1ad84e90f126808ba721d09923813b44)
 
 ---
 
