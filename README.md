@@ -60,7 +60,7 @@
 | --- | --- |
 아이템 19: knowledge를 반복하지 말라 | [배은지](https://create-something-from-nothing.tistory.com/540)
 아이템 20: 일반적인 알고리즘을 반복해서 구현하지 말라 | [고광표](https://olivine-legal-fa6.notion.site/20-17c5b72def4d808ebf7ee64b1aa19a8b)
-아이템 21: 일반적인 프로퍼티 패턴은 프로퍼티 위임으로 만들어라 | [배준형](https://everyday-develop-myself.tistory.com/375)
+아이템 21: 일반적인 프로퍼티 패턴은 프로퍼티 위임으로 만들어라 | [배준형](https://everyday-develop-myself.tistory.com/374#article-3--%EC%95%84%EC%9D%B4%ED%85%9C-21---%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8-%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0-%ED%8C%A8%ED%84%B4%EC%9D%80-%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0-%EC%9C%84%EC%9E%84%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%9D%BC)
 아이템 22: 일반적인 알고리즘을 구현할 때 제네릭을 사용하라 | [이주현](https://zzang9haha.notion.site/22-179c0385d36e80fdb258f43a528f500a)
 아이템 23: 타입 파라미터의 섀도잉을 피하라 | [이규봉](https://bong01.notion.site/23-17ccd120dfd2805493ffe1daa7dc39ce?pvs=4)
 아이템 24: 제네렉 타입과 variance 한정자를 활용하라 | [전태경](https://velog.io/@tony0327/%EC%A0%9C%EB%84%A4%EB%A6%AD-%ED%83%80%EC%9E%85%EA%B3%BC-Variance%EA%B3%B5%EB%B3%80%EC%84%B1%EA%B3%BC-%EB%B0%98%EA%B3%B5%EB%B3%80%EC%84%B1)
