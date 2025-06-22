@@ -64,7 +64,7 @@
 아이템 22: 일반적인 알고리즘을 구현할 때 제네릭을 사용하라 | [이주현](https://zzang9haha.notion.site/22-179c0385d36e80fdb258f43a528f500a)
 아이템 23: 타입 파라미터의 섀도잉을 피하라 | [이규봉](https://bong01.notion.site/23-17ccd120dfd2805493ffe1daa7dc39ce?pvs=4)
 아이템 24: 제네렉 타입과 variance 한정자를 활용하라 | [전태경](https://velog.io/@tony0327/%EC%A0%9C%EB%84%A4%EB%A6%AD-%ED%83%80%EC%9E%85%EA%B3%BC-Variance%EA%B3%B5%EB%B3%80%EC%84%B1%EA%B3%BC-%EB%B0%98%EA%B3%B5%EB%B3%80%EC%84%B1)
-아이템 25: 공통 모듈을 추출해서 여러 플랫폼에서 재사용하라 | [배준형](https://everyday-develop-myself.tistory.com/378)
+아이템 25: 공통 모듈을 추출해서 여러 플랫폼에서 재사용하라 | [배준형](https://everyday-develop-myself.tistory.com/374#article-7--%EC%95%84%EC%9D%B4%ED%85%9C-25---%EA%B3%B5%ED%86%B5-%EB%AA%A8%EB%93%88%EC%9D%84-%EC%B6%94%EC%B6%9C%ED%95%B4%EC%84%9C-%EC%97%AC%EB%9F%AC-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%97%90%EC%84%9C-%EC%9E%AC%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)
 
 #### 4장 추상화 설계 (153p ~ 204p)
 | 아이템 | 발표자료 |
